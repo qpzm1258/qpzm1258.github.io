@@ -1,12 +1,14 @@
----
-layout: post
-title:  "Circular Matrix"
-date:   2015-02-20 23:25:49
----
-
-####Program
-to display a circular matrix using Java on BlueJ
+#### Program  
+to display a circular matrix using Java on BlueJ  
 import java.io.*;
 
 
 There you go.
+$$
+X=
+\begin{cases}
+\frac{a}{b} \pm \frac{c}{d} \cdots{a>0}\\
+\\
+\frac{a}{b} \times \frac{c}{d}\cdots{a<=0}
+\end{cases}
+$$
