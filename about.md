@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel purus sagittis, eleifend ante quis, tempus lectus. Vivamus maximus nibh lectus, sed gravida sapien imperdiet in. Curabitur non purus rutrum, iaculis mauris ac, placerat turpis. Donec vel semper enim, ut ultrices sem. Fusce rutrum, justo id porta malesuada, purus erat gravida metus, sit amet viverra turpis lacus nec mi. Aliquam et mi vel ipsum mollis aliquam eu eget augue. Morbi congue eros id nisl sagittis accumsan. Nam nec odio dolor.
+有些事看上去很遥远，
 
-Integer accumsan, turpis a egestas malesuada, lorem ex blandit nulla, in condimentum lectus quam et dolor. Ut dapibus, sem et efficitur efficitur, urna turpis dictum tellus, non lacinia leo sem sit amet leo. Phasellus tortor dui, consectetur sed felis in, dapibus tincidunt nisi. Nam faucibus, dolor nec ultricies euismod, risus magna condimentum elit, et dictum lorem nunc eu orci. Mauris efficitur sollicitudin mi, nec condimentum nunc euismod vel. Integer ac dictum elit. Vivamus in dui ac arcu laoreet dictum.
+漫漫人生路上，我们都抱着一颗侥幸的心，去想：兴许走着走着就会遇到一个人，无论那时的自己是否还会恪守如今的标准，总归是不至于孤独终老的吧。
 
-Curabitur congue aliquet nulla, ac hendrerit leo dictum in. Cras at tristique quam. Praesent euismod nec dui eu vulputate. Quisque sit amet gravida elit. Suspendisse euismod urna ut efficitur facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla, ipsum tempor ullamcorper pellentesque, purus tellus convallis ex, quis viverra arcu metus at est. Aliquam erat volutpat. Suspendisse dictum, nunc in dictum ultrices, sapien arcu venenatis tortor, eget dictum nulla sem quis nibh. Nunc id malesuada odio. Sed in dolor accumsan, vehicula neque ut, pretium est. Cras feugiat nunc et neque sagittis, in aliquam velit mattis. Nulla in massa mi. In eget efficitur neque, sit amet porttitor diam. Integer sed posuere sapien.
+如果结了婚之后要离婚，那我不如从一开始就一个人过，一直到死。我会看着那个空旷的房间，看着那张空旷的床；看着厨房里一个人吃剩下的饭，那一双筷子那一个碗；看着卫生间里那一把牙刷，看着那一双拖鞋；看着衣柜里一个人的衣服。然后在只有自己的夜里，眼泪塌方，放声大哭。
+
+但我也想过，如果孤独终老，那就孤独终老。我还有至少30年的时间，去做好孤独终老的准备：去准备好这一辈子，哪怕不稳定，哪怕一直一个人，也能有能力在任何困境面前从从容容，沉着又不失体面，可以优雅地老去，而不感到寂寞。永远爱恨分明，永远理直气壮，永远尖锐锋利，永远随心所欲，永远热泪盈眶，也永远放肆疯狂。
+
+你有没有想过，也许真的会孤独终老？我想过，我真的想过。
