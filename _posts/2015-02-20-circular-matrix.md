@@ -1,8 +1,6 @@
-#### Program  
-to display a circular matrix using Java on BlueJ  
+### Program
+to display a circular matrix using Java on BlueJ
 import java.io.*;
-
-
 There you go.
 $$
 X=
@@ -12,3 +10,4 @@ X=
 \frac{a}{b} \times \frac{c}{d}\cdots{a<=0}
 \end{cases}
 $$
+
