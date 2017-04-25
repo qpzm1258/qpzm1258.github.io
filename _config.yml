@@ -37,7 +37,10 @@ scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
 # Build settings
-markdown: CommonMark
-highlighter: Rouge #pygments
+markdown: kramdown
+highlighter: rouge #pygments
 lsi: false
 safe: false
+
+ kramdown:
+   math_engine: mathjax
