@@ -39,7 +39,7 @@ scroll-rail: "#0097A7"
 gems:
   - jekyll-paginate
 paginate: 5
-paginate_path: "page:num/blog.html"
+paginate_path: "/blog/page:num"
 
 # Build settings
 markdown: kramdown
