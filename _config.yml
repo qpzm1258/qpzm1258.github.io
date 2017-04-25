@@ -35,6 +35,8 @@ github_username:  qpzm1258
 css: "cyan"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
+paginate:5
+paginate_path: "page:num"
 
 gems:
   - jekyll-paginate
@@ -43,6 +45,6 @@ paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
-highlighter: Rouge #pygments
+highlighter: rouge #pygments
 lsi: false
 safe: false
