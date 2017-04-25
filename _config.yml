@@ -37,7 +37,7 @@ scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
 # Build settings
-markdown: kramdown
+markdown: CommonMark
 highlighter: Rouge #pygments
 lsi: false
 safe: false
