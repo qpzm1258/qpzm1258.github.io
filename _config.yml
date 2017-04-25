@@ -36,6 +36,12 @@ css: "cyan"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
+gems:
+   - jekyll-paginate
+
+paginate:5
+paginate_path: "page:num"
+
 # Build settings
 markdown: kramdown
 highlighter: Rouge #pygments
